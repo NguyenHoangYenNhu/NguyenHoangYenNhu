@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nguyen Hoang Yen Nhu.
 - 🌱 I’m currently learning Computer Science at UIT in Ho Chi Minh City of Viet Nam.
+- I'm studying a lot about recognition and financial.
 
 <!---
 NguyenHoangYenNhu/NguyenHoangYenNhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
